@@ -16,14 +16,14 @@
 </div>
 
 ### Stats
-[<img align="left" src="https://github-readme-stats.vercel.app/api?username=roblnet13&show_icons=true&theme=dark_lover">](#stats)
+[<img align="left" src="https://github-readme-stats.vercel.app/api?username=roblnet13&show_icons=true&theme=light">](#stats)
 
-[<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roblnet13&layout=compact&theme=dark_lover">](#stats)
+[<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roblnet13&layout=compact&theme=light">](#stats)
 
 <br><br><br><br><br><br><br><br><br><br> <!-- 😭 -->
 
 ### Trophy Case
-[![ROBlNET13's Trophy Case](https://github-profile-trophy.vercel.app/?username=roblnet13&theme=dracula)](#trophy-case)
+[![ROBlNET13's Trophy Case](https://github-profile-trophy.vercel.app/?username=roblnet13&theme=light)](#trophy-case)
 
 <div id="views">
 	<a href="#views"><img src="https://komarev.com/ghpvc/?username=roblnet13&label=Profile%20views&color=0e75b6&style=for-the-badge"></a>
