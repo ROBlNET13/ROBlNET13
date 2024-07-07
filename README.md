@@ -1,4 +1,4 @@
-# Heya! I'm ROBINET13! <img src="https://i.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.webp" width="25px">
+# Yo! I'm ROBINET13! <img src="https://i.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.webp" width="25px">
 
 <img src="https://api.statusbadges.me/badge/status/819525284230594570?style=for-the-badge" alt="status"> <img src="https://api.statusbadges.me/badge/playing/819525284230594570?style=for-the-badge" alt="playing"> <img src="https://api.statusbadges.me/badge/vscode/819525284230594570?style=for-the-badge" alt="vscode">
 
