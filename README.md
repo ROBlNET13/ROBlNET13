@@ -23,7 +23,7 @@
 <br><br><br><br><br><br><br><br><br><br> <!-- 😭 -->
 
 ### Trophy Case
-[![ROBlNET13's Trophy Case](https://github-profile-trophy.vercel.app/?username=roblnet13&theme=dracula)](#trophy-case)
+[![ROBlNET13's Trophy Case](https://github-profile-trophy.vercel.app/?username=roblnet13&theme=dark_lover)](#trophy-case)
 
 <div id="views">
 	<a href="#views"><img src="https://komarev.com/ghpvc/?username=roblnet13&label=Profile%20views&color=0e75b6&style=for-the-badge"></a>
