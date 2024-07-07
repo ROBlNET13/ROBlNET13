@@ -16,11 +16,11 @@
 </div>
 
 ### Stats
-[<img align="left" src="https://github-readme-stats.vercel.app/api?username=roblnet13&show_icons=true&theme=dark_lover">](#stats)
+[<img align="left" src="https://github-readme-stats.vercel.app/api?username=roblnet13&show_icons=true&theme=radical">](#stats)
 
-[<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roblnet13&layout=compact&theme=dark_lover">](#stats)
+[<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roblnet13&layout=compact&theme=radical">](#stats)
 
-<br><br><br><br><br><br><br><br><br><br> <!-- 😭 -->
+<br><br><br><br><br><br><br><br><br><br> <!-- 😭 real -->
 
 ### Trophy Case
 [![ROBlNET13's Trophy Case](https://github-profile-trophy.vercel.app/?username=roblnet13&theme=dark_lover)](#trophy-case)
