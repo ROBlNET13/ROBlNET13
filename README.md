@@ -16,9 +16,9 @@
 </div>
 
 ### Stats
-[<img align="left" src="https://github-readme-stats.vercel.app/api?username=roblnet13&show_icons=true&theme=dracula">](#stats)
+[<img align="left" src="https://github-readme-stats.vercel.app/api?username=roblnet13&show_icons=true&theme=dark_lover">](#stats)
 
-[<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roblnet13&layout=compact&theme=dracula">](#stats)
+[<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roblnet13&layout=compact&theme=dark_lover">](#stats)
 
 <br><br><br><br><br><br><br><br><br><br> <!-- 😭 -->
 
