@@ -1,6 +1,6 @@
-# Yo! I'm ROBINET13 <img src="https://i.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.webp" width="28">&nbsp;&nbsp;![status](https://api.statusbadges.me/badge/status/819525284230594570?style=for-the-badge)
+# Yo! I'm ROBINET13 <img src="https://github.com/user-attachments/assets/2be1b51a-a565-4182-89a1-124c5bfeb3d0" width="28">&nbsp;&nbsp;![status](https://api.statusbadges.me/badge/status/700494240073121823?style=for-the-badge)
 
-![vscode](https://api.statusbadges.me/badge/vscode/819525284230594570?style=for-the-badge) ![playing](https://api.statusbadges.me/badge/playing/819525284230594570?style=for-the-badge)
+![vscode](https://api.statusbadges.me/badge/vscode/700494240073121823?style=for-the-badge) ![playing](https://api.statusbadges.me/badge/playing/700494240073121823?style=for-the-badge)
 
 ## Experience
 
@@ -8,7 +8,7 @@
 [![LuaU](https://img.shields.io/badge/LuaU-009EFE?style=for-the-badge&logo=robloxstudio&logoColor=white)](#languages)
 
 ### Markup Languages
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#markup-languages)
+[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)](#markup-languages)
 [![Markdown](https://img.shields.io/badge/Markdown-03A7DD?style=for-the-badge&logo=markdown&logoColor=white)](#markup-languages)
 
 ### Operating Systems
