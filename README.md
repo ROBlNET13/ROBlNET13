@@ -1,4 +1,4 @@
-# Yo! I'm ROBINET13 <img src="https://github.com/user-attachments/assets/2be1b51a-a565-4182-89a1-124c5bfeb3d0" width="28">&nbsp;&nbsp;![status](https://api.statusbadges.me/badge/status/700494240073121823?style=for-the-badge)
+# Haii! I'm ROBINET13 <img src="https://github.com/user-attachments/assets/2be1b51a-a565-4182-89a1-124c5bfeb3d0" width="28">&nbsp;&nbsp;![status](https://api.statusbadges.me/badge/status/700494240073121823?style=for-the-badge)
 
 ![vscode](https://api.statusbadges.me/badge/vscode/700494240073121823?style=for-the-badge) ![playing](https://api.statusbadges.me/badge/playing/700494240073121823?style=for-the-badge)
 
